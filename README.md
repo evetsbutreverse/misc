@@ -1,22 +1,40 @@
 [# misc
 some random file i found
-](https://www.canva.com/design/DAGe_Ul0_Ik/_SI5UyqR-eNPmJGDDZEn3w/edit?utm_content=DAGe_Ul0_Ik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+](https://www.canva.com/design/DAGkD63Wv7U/Kkwh7WWBld6qKXrDcaCNEg/edit?utm_content=DAGkD63Wv7U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Trong chế độ đại nghị, nếu chính phủ mất tín nhiệm từ quốc hội thì điều gì xảy ra?
 
-Câu hỏi: Tại sao việc kiểm soát chất lượng lại quan trọng trong sản xuất hàng tiêu dùng?
-A. Bảo vệ sức khỏe người tiêu dùng
-B. Duy trì uy tín thương hiệu
-C. Giảm chi phí khiếu nại
-D. Đảm bảo tiêu chuẩn sản phẩm
-Đáp án: A. Bảo vệ sức khỏe người tiêu dùng
-Câu hỏi: Công nghệ nào đang được áp dụng nhiều nhất trong công nghiệp sản xuất hàng tiêu dùng hiện nay?
-A. Công nghệ tự động hóa
-B. Trí tuệ nhân tạo
-C. Công nghệ in 3D
-D. Internet of Things (IoT)
-Đáp án: A. Công nghệ tự động hóa
-Câu hỏi: Các xu hướng tiêu dùng hiện nay có ảnh hưởng như thế nào đến sản xuất hàng tiêu dùng?
-A. Thúc đẩy sản phẩm thân thiện với môi trường
-B. Gia tăng nhu cầu sản phẩm hữu cơ
-C. Tăng cường quan tâm đến nguồn gốc sản phẩm
-D. Yêu cầu đổi mới trong thương mại điện tử
-Đáp án: A. Thúc đẩy sản phẩm thân thiện với môi trường
+A. Tổng thống sẽ bị cách chức
+B. Chính phủ tự động giải tán
+C. Quốc hội bị giải tán
+D. Tòa án xét xử chính phủ
+✅ Đáp án: B. Chính phủ tự động giải tán
+Nguyên tắc “tập trung dân chủ” thể hiện rõ nhất ở cơ quan nào trong bộ máy nhà nước Việt Nam?
+
+A. Chính phủ
+B. Quốc hội
+C. Đảng Cộng sản Việt Nam
+D. Tòa án nhân dân
+✅ Đáp án: C. Đảng Cộng sản Việt Nam
+
+Chính phủ là cơ quan nào trong bộ máy nhà nước Việt Nam?
+
+A. Cơ quan lập pháp
+B. Cơ quan hành pháp
+C. Cơ quan tư pháp
+D. Cơ quan kiểm tra
+✅ Đáp án: B. Cơ quan hành pháp
+Ngành nào là một phần của quyền lực nhà nước?
+
+A. Tư pháp
+B. Truyền thông
+C. Cảnh sát
+D. Quân đội
+✅ Đáp án: A. Tư pháp
+
+Hiến pháp là gì?
+
+A. Luật dân sự
+B. Luật kinh tế
+C. Luật cao nhất của nhà nước
+D. Quy định hành chính
+✅ Đáp án: C. Luật cao nhất của nhà nước
